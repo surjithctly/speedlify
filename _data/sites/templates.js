@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Website Templates", // optional, falls back to object key
-	description: "The default sites that get tested",
+	description: "Page Score of Website Templates on Web3Templates",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
