@@ -8,6 +8,7 @@ module.exports = {
 		"https://surjithctly.in/",
     "https://web3canvas.com/",
 		"https://web3forms.com/",
+		"https://mission-control.app/",
     "https://web3templates.com/",
     "https://web3templates.com/components",
 	]
